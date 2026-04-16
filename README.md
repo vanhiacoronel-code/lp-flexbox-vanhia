@@ -1,2 +1,2 @@
 # lp-flexbox-vanhia
-Unificación de los conceptos aprendidos de Flexbox 
+Unificación de los conceptos aprendidos de Flexbox CSS
