@@ -1,0 +1,15 @@
+.section-products {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.product-item {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    border: solid 1px #FFC2BB;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+}
